@@ -22,7 +22,7 @@ p {
   width: 100vw;
   height: 100vh;
   grid-template-columns: minmax(10px, 2fr) minmax(180px, 32fr) minmax(10px, 2fr);
-  grid-template-rows: 60px minmax(120px, 240px) minmax(auto,480px) minmax(200px, auto) 40px;
+  grid-template-rows: 60px minmax(auto, 240px) minmax(auto,480px) minmax(200px, auto) 40px;
 }
 
 header, footer {
